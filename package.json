@@ -1,0 +1,28 @@
+{
+  "name": "try_vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommirok/try-vue.js.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Tommi Rokolampi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommirok/try-vue.js/issues"
+  },
+  "homepage": "https://github.com/tommirok/try-vue.js#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.9.7",
+    "parcel-plugin-vue": "^1.5.0",
+    "vue": "^2.5.17"
+  }
+}
